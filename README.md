@@ -1,31 +1,33 @@
+Add in the workshop image here using the referential link at the bottom of the README file
+
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Title of Workshop
+Description of workshop including what you will learn and any tools that will be used in the process
 
-### First header
-Content
+## Setup Instructions
+In preparation for this workshop, you will need...
 
-### Second Header
+Include:
+ - All software that needs to be downloaded
+ - Any accounts that will need to be made including links to the sign up pages for those accounts
+ - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
 
-Content
+For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
 
-### Etc.
+## Helpful Materials
+Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+
+## Follow Up Material
+Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+
  
  
  
 
   
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
-  
-You can also find us on:  
-[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
-[Twitter](https://twitter.com/brock_dsl)  
-[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
-[YouTube](https://www.youtube.com/channel/UC2eEqPkDo-1N3qilxv-N_1g/featured?view_as=subscriber)
-
-
+**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to Experience BU if you are a Brock affiliate or Eventbrite for external attendees.**
 
 
 
