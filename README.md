@@ -1,6 +1,6 @@
 Add in the workshop image here using the referential link at the bottom of the README file
 
-![Tool Logo][imglogo]
+![Tool Logo](Image filename)
 
 
 # Title of Workshop
@@ -29,11 +29,3 @@ Add in names of books, links to websites, or any other reccomendations for follo
   
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
 
-
-
-
-
-
-<!--- Please use reference style images so that it is easier to update pictures later --->
-
-[imglogo]: INSERT LOGO FILENAME HERE
