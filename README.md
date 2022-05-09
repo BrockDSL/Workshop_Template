@@ -1,3 +1,5 @@
+Add in the workshop image here 
+
 ![Tool Logo](Image filename)
 
 
@@ -29,4 +31,5 @@ Add in names of books, links to websites, or any other reccomendations for follo
 ----
   
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
+
 
