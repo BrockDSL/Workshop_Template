@@ -4,7 +4,11 @@ Add in the workshop image here
 
 
 # Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+Description of workshop including what you will learn and any tools that will be used in the process.
+
+Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
+
+*Estimated length of workshop: ## hours*
 
 ----
 
